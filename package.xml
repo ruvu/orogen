@@ -21,7 +21,6 @@
   <run_depend>typelib</run_depend>
   <run_depend>rtt_typelib</run_depend>
   <run_depend>utilrb</run_depend>
-  <run_depend>metaruby</run_depend>
   <run_depend>rake</run_depend>
   <run_depend>ruby</run_depend>
 
